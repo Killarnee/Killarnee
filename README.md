@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding!?
 - 🌱 I’m currently learning ... your life is your teacher :D
 - 💞️ I’m looking to collaborate on ... only my own projects, that's enough
-- 📫 How to reach me ... via E-Mail contact@killarnee.org
+- 📫 How to reach me ... via E-Mail killarnee@killarnee.org
 
 <!---
 Killarnee/Killarnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
